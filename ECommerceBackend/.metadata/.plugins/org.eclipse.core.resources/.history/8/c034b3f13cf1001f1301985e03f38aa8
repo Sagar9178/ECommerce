@@ -1,0 +1,26 @@
+spring.application.name=03-order-api
+spring.datasource.name=springBootProj
+spring.datasource.url=jdbc:mysql://127.0.0.1:3306/e-Commerce
+spring.datasource.username=root
+spring.datasource.password=admin
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.show-sql=true
+
+#spring.main.allow-circular-references = true
+
+
+razorpay.key=rzp_test_uFgF9yioEA7gr4
+razorpay.secret=cKqBAql4mHXWFYUDTH90Iojj
+
+
+#smtp properties
+spring.mail.host=smtp.gmail.com
+spring.mail.port=587
+spring.mail.username=sagarkalia6371@gmail.com
+spring.mail.password=qyat znrv qwyg xjvq
+spring.mail.properties.mail.smtp.auth=true
+spring.mail.properties.mail.smtp.starttls.enable=true
+spring.security.enabled=false
+#spring.jpa.properties.hibernate.jdbc.time_zone=UTC
+
+
